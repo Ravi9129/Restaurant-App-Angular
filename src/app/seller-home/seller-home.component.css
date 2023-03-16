@@ -1,0 +1,25 @@
+table{
+    text-align: left;
+    color: blueviolet;
+    border-collapse: collapse;
+    height: 100%;
+    width: 100%;
+}
+img{
+    height: 100px;
+    width: 100%;
+}
+table td , table th{
+    border: 1px solid blueviolet;
+    padding: 10px;
+    min-width: 160pxs;
+    color: black;
+}
+.adjust-update-link{
+    margin-left: 10px;
+}
+
+.product-list{
+    background-color: aqua;
+    height: auto;
+}

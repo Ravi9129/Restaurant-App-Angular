@@ -1,0 +1,307 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "name": "Special Thali ",
+      "price": "550",
+      "category": "Food",
+      "color": "Veg",
+      "description": "This is a Rajasthani Thali",
+      "image": "https://th.bing.com/th/id/OIP.X9gFZ-c-ZnEO63LTs3r9vQHaHa?pid=ImgDet&rs=1",
+      "id": 1
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "price": "300",
+      "category": "Food",
+      "color": "black",
+      "description": " This is Paneer Tikka Masala ",
+      "image": "https://i0.wp.com/www.cookingfromheart.com/wp-content/uploads/2017/03/Paneer-Tikka-Masala-4.jpg?resize=1024%2C683",
+      "id": 2
+    },
+    {
+      "name": "Masala Dosa",
+      "price": "200",
+      "category": "Dosa",
+      "color": "food",
+      "description": "This is south indian masala dosa",
+      "image": "https://i.ytimg.com/vi/-ctU8eSfIHE/maxresdefault.jpg",
+      "id": 3
+    },
+    {
+      "name": "Burgur",
+      "price": "200",
+      "category": "fast food",
+      "color": "veg",
+      "description": "Best Yummy Burger",
+      "image": "https://th.bing.com/th/id/OIP.mwsAzkT3cHZ83LGMMyXvRAHaE8?pid=ImgDet&rs=1",
+      "id": 4
+    },
+    {
+      "name": "Paav Bhaaji",
+      "price": "180",
+      "category": "fast food",
+      "color": "veg",
+      "description": "Paav Bhaaji ",
+      "image": "https://i0.wp.com/ahappytreat.com/wp-content/uploads/2017/04/DSC_0287_new-2.jpg?fit=6000%2C4000&ssl=1",
+      "id": 5
+    },
+    {
+      "name": "Chaumin",
+      "price": "70",
+      "category": "fast food",
+      "color": "veg",
+      "description": "Delhi's Special Chaumin",
+      "image": "https://i.pinimg.com/736x/7c/3b/b3/7c3bb3c4d6ce96074dee02046c669bdf.jpg",
+      "id": 6
+    },
+    {
+      "name": "Baati",
+      "price": "80",
+      "category": "food",
+      "color": "veg",
+      "description": "Bihar's famous Baati",
+      "image": "https://www.holidify.com/images/cmsuploads/compressed/5_20180410120045.jpg",
+      "id": 7
+    },
+    {
+      "name": "Chole Bhature",
+      "price": "80",
+      "category": "food",
+      "color": "veg",
+      "description": "Meerut's famous Chole Bhature",
+      "image": "https://2.bp.blogspot.com/-211OGIXAb-I/Ww1kD5i6ykI/AAAAAAAAD9A/cmeq206r5jYJNjtT73CcOohjN_GIP5ZSgCLcBGAs/s1600/chole-bhature-in-mumbai.jpg",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "ravi",
+      "email": "Ravi@gmail.com",
+      "password": "54321",
+      "id": 5
+    },
+    {
+      "name": "Ravi Rajput",
+      "email": "Ravi@gmail.com",
+      "password": "123456789",
+      "id": 6
+    },
+    {
+      "name": "ravi",
+      "email": "Ravi@gmail.com",
+      "password": "12345",
+      "id": 7
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": 8
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "Ravi@gmail.com",
+      "address": "qwertyuiop",
+      "contact": "9129868608",
+      "totalPrice": 3400,
+      "userId": 6,
+      "id": 5
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 650,
+      "userId": 6,
+      "id": 6
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 400,
+      "userId": 6,
+      "id": 7
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 650,
+      "userId": 6,
+      "id": 8
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 3400,
+      "userId": 6,
+      "id": 9
+    },
+    {
+      "totalPrice": 650,
+      "userId": 6,
+      "id": 10
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 1200,
+      "userId": 6,
+      "id": 11
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 400,
+      "userId": 6,
+      "id": 12
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 650,
+      "userId": 6,
+      "id": 13
+    },
+    {
+      "totalPrice": 100,
+      "userId": 6,
+      "id": 14
+    },
+    {
+      "totalPrice": 100,
+      "userId": 6,
+      "id": 15
+    },
+    {
+      "totalPrice": 100,
+      "userId": 6,
+      "id": 16
+    },
+    {
+      "totalPrice": 100,
+      "userId": 6,
+      "id": 17
+    },
+    {
+      "totalPrice": 100,
+      "userId": 6,
+      "id": 18
+    },
+    {
+      "totalPrice": 950,
+      "userId": 7,
+      "id": 19
+    }
+  ]
+}
